@@ -1,20 +1,20 @@
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/ (optional)
-url: "http://www.your-domain.com" # the base hostname & protocol for your site
+url: "drewmace.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Drew Mace # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Aspiring Software Dev</h1>
+     <p>Software Dev student @ Bloc</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+   Powered by <a href="http://jekyllrb.com">Jekyll</a>.
 
   # Icons
   rss: false
@@ -24,7 +24,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: "Drew-Mace"# github profile name, e.g. "madebymunsters"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -32,7 +32,7 @@ theme_settings:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
-  steam:
+  steam: "babyplz"
   tumblr:
   twitter:
   wordpress:
