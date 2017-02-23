@@ -7,7 +7,7 @@ short-description: BlocJams is a responsive music player.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams.png)
+![]({{ site.baseurl }}/img/blocjams.PNG)
 
 ## Explanation
 
