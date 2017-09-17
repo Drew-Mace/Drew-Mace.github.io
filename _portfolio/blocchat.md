@@ -24,7 +24,7 @@ Using Angular and bootstrap I created the modals/view for username and room crea
 
 ## Results
 
-The result is a pretty neat clean chat app that could be used to stay in contact with friends or with co-workers.
+The result is a pretty neat and basic chat app that could be used to stay in contact with friends or with co-workers.
 
 
 ## Conclusion
