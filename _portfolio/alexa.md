@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alexa Projects
-thumbnail-path: "img/bloc_jams_logo.png"
+thumbnail-path: "img/alexa.png"
 short-description: Amazon Alexa skills. 
 
 ---
